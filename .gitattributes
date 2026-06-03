@@ -35,7 +35,6 @@
                 </time>
             </p>
         </section>
-     
         <section id="registration">
             <h2>Registration Form</h2>
             <form action="#" method="post">
@@ -104,7 +103,6 @@
             </form>
         </section>
     </main>
-   
     <aside id="faq">
         <h2>Frequently Asked Questions</h2>
         <h3>Who can participate?</h3>
@@ -114,7 +112,6 @@
         <h3>Will certificates be provided?</h3>
         <p>Yes, participation certificates will be awarded.</p>
     </aside>
-
     <footer id="contact">
         <h2>Contact Us</h2>
         <address>
