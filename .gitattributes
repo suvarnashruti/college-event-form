@@ -10,7 +10,7 @@
         <h1>College Event Registration</h1>
         <nav>
             <a href="#about">About Event</a> 
-            <a href="#registration" Register</a> 
+            <a href="#registration>" Register</a> 
             <a href="#faq">FAQ</a> 
             <a href="#contact">Contact</a>
         </nav>
